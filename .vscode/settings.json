@@ -1,0 +1,9 @@
+{
+    "terminal.explorerKind": "external",
+    "terminal.integrated.shell.windows": "",
+    "terminal.integrated.shell.osx": "zsh",
+    "editor.formatOnSave": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true 
+    }
+}
